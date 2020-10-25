@@ -1,5 +1,6 @@
 ## Управляющие конструкции и коллекции 1
 
+- https://docs.python.org/ - документация по Python
 - http://www.pythontutor.com/visualize.html#mode=edit - для отладки кода
 
 Решать задачи на Питоне:
