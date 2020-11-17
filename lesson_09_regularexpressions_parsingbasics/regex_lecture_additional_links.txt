@@ -1,0 +1,2 @@
+https://habr.com/ru/post/349860/ - статья на Хабре (от простого к сложному)
+https://regexcrossword.com/ - regular expression тренажер (типа sudoku)
